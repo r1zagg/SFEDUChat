@@ -1,0 +1,45 @@
+# Gradle
+.gradle/
+**/build/
+**/buildSrc/build/
+
+# Local configuration file
+local.properties
+
+# Android Studio
+*.iml
+.idea/
+.DS_Store
+/captures/
+.externalNativeBuild/
+.cxx/
+.navigation/
+
+# Generated files
+*.dex
+*.globals
+**/.transforms/
+**/kspCaches/
+**/intermediates/
+**/generated/
+**/tmp/
+
+# Logs and reports
+*.log
+build/reports/
+
+# Keystore files (если есть)
+*.jks
+*.keystore
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code (если используете)
+.vscode/
+
+# IntelliJ IDEA
+out/
+*.class
