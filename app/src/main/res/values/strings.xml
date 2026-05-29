@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SFEDU Chat</string>
+    <string name="login_title">SFEDU Chat</string>
+    <string name="login_subtitle">Войдите, чтобы продолжить</string>
+    <string name="register_title">Регистрация</string>
+    <string name="register_subtitle">Создайте аккаунт и выберите аватар</string>
+    <string name="username">Имя пользователя</string>
+    <string name="choose_avatar">Выберите аватар</string>
+    <string name="pick_from_gallery">Или фото из галереи</string>
+    <string name="password">Пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="register_button">Создать аккаунт</string>
+    <string name="go_register">Регистрация</string>
+    <string name="back">Назад</string>
+    <string name="pick_avatar">Выбрать аватар</string>
+    <string name="chats">Чаты</string>
+    <string name="new_chat">Новый чат</string>
+    <string name="peer_username">Никнейм собеседника</string>
+    <string name="create">Создать</string>
+    <string name="cancel">Отмена</string>
+    <string name="empty_chats">Пока нет чатов.\nНажмите + и введите никнейм друга.</string>
+    <string name="message_hint">Сообщение…</string>
+    <string name="send">Отправить</string>
+    <string name="image">Изображение</string>
+    <string name="encrypted_placeholder">Сообщение…</string>
+    <string name="logout">Выход</string>
+    <string name="keys">Ключи</string>
+</resources>
